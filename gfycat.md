@@ -11,7 +11,9 @@
 - anum04 - Enderman Creeper Spitroast
   - [V1](https://gfycat.com/weightysillygibbon)
   - [V2](https://gfycat.com/scientificacademicatlanticridleyturtle)
-- [anum05 - Endermilking](https://gfycat.com/unawareglossycassowary)
+- anum05 - Endermilking
+   - [V1 (no sound)](https://gfycat.com/unawareglossycassowary)
+   - [V2 (sound)](https://gfycat.com/PerfectDevotedGemsbok)
 - [anum06 - Endermilking 2](https://gfycat.com/recentfirmamericanmarten)
 - [anum07 - Ghast x Gravel Piston](https://gfycat.com/amplesmartatlanticblackgoby)
 - [unfinished  anum09 Wolf x Skelton](https://gfycat.com/portlyplainarrowworm)
