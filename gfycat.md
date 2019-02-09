@@ -14,7 +14,9 @@
 - anum05 - Endermilking
    - [V1 (no sound)](https://gfycat.com/unawareglossycassowary)
    - [V2 (sound)](https://gfycat.com/PerfectDevotedGemsbok)
-- [anum06 - Endermilking 2](https://gfycat.com/recentfirmamericanmarten)
+- anum06 - Endermilking 2
+  - [V1 (no sound)](https://gfycat.com/recentfirmamericanmarten)
+  - [V2 (sound)](https://gfycat.com/desertedwigglyiguana)
 - [anum07 - Ghast x Gravel Piston](https://gfycat.com/amplesmartatlanticblackgoby)
 - [unfinished  anum09 Wolf x Skelton](https://gfycat.com/portlyplainarrowworm)
 - [anum10 Creeper Sex Machine 2](https://gfycat.com/ickyagilegoldenmantledgroundsquirrel)
