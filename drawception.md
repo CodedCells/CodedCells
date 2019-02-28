@@ -5,6 +5,7 @@
 - [Bondage Snake](https://drawception.com/game/QqpxkbAN8s/bondage-snake/)
 - [Bondage Flamingo](https://drawception.com/game/SfSWEWkn6f/bondage-flamingo/)
 - [Duck Bondage](https://drawception.com/game/fsdyTx84yR/duck-bondage/)
+- [Tread on me daddy snake flag](https://drawception.com/game/Bh2622xZ6n/tread-on-me-daddy-snake-flag/)
 
 # Starts good but slows down
 - [Flowey using his vines :3](https://drawception.com/game/ESj3rfS6a1/flowey-using-his-vines-3/)
