@@ -84,7 +84,7 @@ Animated - [Fur Affinity](https://www.furaffinity.net/view/35217129/),
 [DeviantArt](https://www.deviantart.com/codedcells/art/Lab-Raiders-13-832183165),
 [ImageBam](http://www.imagebam.com/image/93f9e51335772593)
 
-## 14
-[Fur Affinity](),
-[DeviantArt](),
+## Final
+[Fur Affinity](https://www.furaffinity.net/view/35244595/),
+[DeviantArt](https://www.deviantart.com/codedcells/art/Lab-Raiders-Final-832301016),
 [ImageBam](http://www.imagebam.com/image/8bce331335772594)
