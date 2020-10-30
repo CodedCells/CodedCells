@@ -1,46 +1,53 @@
-# List of Videos on GfyCat
+# List of Videos on -GfyCat- Redgifs
 
 # Stuff I made
 - anum01 - Creeper Sex Machine
-  - [V1](https://gfycat.com/selfishflickeringdromaeosaur)
-  - [V2](https://gfycat.com/wideeyedbothislandwhistler)
-  - [V3](https://gfycat.com/heavyshamelesskakarikis)
+  - [V1](https://redgifs.com/watch/selfishflickeringdromaeosaur)
+  - [V2](https://redgifs.com/watch/wideeyedbothislandwhistler)
+  - [V3](https://redgifs.com/watch/heavyshamelesskakarikis)
 - anum02 - Enderman x Viewer
-  - [V1](https://gfycat.com/richcornychick)
-  - [V2](https://gfycat.com/ripefancyantarcticgiantpetrel)
+  - [V1](https://redgifs.com/watch/richcornychick)
+  - [V2](https://redgifs.com/watch/ripefancyantarcticgiantpetrel)
 - anum04 - Enderman Creeper Spitroast
-  - [V1](https://gfycat.com/weightysillygibbon)
-  - [V2](https://gfycat.com/scientificacademicatlanticridleyturtle)
+  - [V1](https://redgifs.com/watch/weightysillygibbon)
+  - [V2](https://redgifs.com/watch/scientificacademicatlanticridleyturtle)
 - anum05 - Endermilking
-   - [V1 (no sound)](https://gfycat.com/unawareglossycassowary)
-   - [V2 (sound)](https://gfycat.com/PerfectDevotedGemsbok)
+   - [V1 (no sound)](https://redgifs.com/watch/unawareglossycassowary)
+   - [V2 (sound)](https://redgifs.com/watch/PerfectDevotedGemsbok)
 - anum06 - Endermilking 2
-  - [V1 (no sound)](https://gfycat.com/recentfirmamericanmarten)
-  - [V2 (sound)](https://gfycat.com/desertedwigglyiguana)
-- [anum07 - Ghast x Gravel Piston](https://gfycat.com/amplesmartatlanticblackgoby)
-- [unfinished  anum09 Wolf x Skelton](https://gfycat.com/portlyplainarrowworm)
-- [anum10 Creeper Sex Machine 2](https://gfycat.com/ickyagilegoldenmantledgroundsquirrel)
+  - [V1 (no sound)](https://redgifs.com/watch/recentfirmamericanmarten)
+  - [V2 (sound)](https://redgifs.com/watch/desertedwigglyiguana)
+- [anum07 - Ghast x Gravel Piston](https://redgifs.com/watch/amplesmartatlanticblackgoby)
+- [unfinished  anum09 Wolf x Skelton](https://redgifs.com/watch/portlyplainarrowworm)
+- [anum10 Creeper Sex Machine 2](https://redgifs.com/watch/ickyagilegoldenmantledgroundsquirrel)
 - anum11 Enderman x Pig
-  - [V1 (no sound)](https://gfycat.com/eviltatteredchital)
-  - [V1 (sound)](https://gfycat.com/RedWearyIberianchiffchaff)
+  - [V1 (no sound)](https://redgifs.com/watch/eviltatteredchital)
+  - [V1 (sound)](https://redgifs.com/watch/RedWearyIberianchiffchaff)
 - anum12 Enderman x Creeper
-  - [Third Person](https://gfycat.com/whoppingquestionableantbear)
-  - [First Person](https://gfycat.com/magnificentlonelygelada)
-  - [First Person Cum](https://gfycat.com/latewholeleafwing)
+  - [Third Person](https://redgifs.com/watch/whoppingquestionableantbear)
+  - [First Person](https://redgifs.com/watch/magnificentlonelygelada)
+  - [First Person Cum](https://redgifs.com/watch/latewholeleafwing)
 - anum15 Endermilking 3
-  - [1080p](https://gfycat.com/advancedthincockatoo)
-  - [4k](https://gfycat.com/oddballhalfcockatoo)
+  - [1080p](https://redgifs.com/watch/advancedthincockatoo)
+  - [4k](https://redgifs.com/watch/oddballhalfcockatoo)
 - test43 - Chicken grinding on Polar Bear
-  - [1080p HD](https://gfycat.com/decisivesilkycorydorascatfish)
-  - [4K UHD](https://gfycat.com/familiardiligentblackandtancoonhound)
-- [testd07 Creeper getting Spiked](https://gfycat.com/favoriteunevengroundhog)
-- 
+  - [1080p HD](https://redgifs.com/watch/decisivesilkycorydorascatfish)
+  - [4K UHD](https://redgifs.com/watch/familiardiligentblackandtancoonhound)
+- [testd07 Creeper getting Spiked](https://redgifs.com/watch/favoriteunevengroundhog)
+- Wolf Tailwag
+- - [Male](https://redgifs.com/watch/flawedunripehornedviper)
+- - [Female](https://redgifs.com/watch/pleasedadoredguineapig)
+- Twerking Cave Spider
+- - [Male](https://redgifs.com/watch/sparsedeliriouscusimanse)
+- - [Female](https://redgifs.com/watch/soupyadmirableivorygull)
+- [Trapdoor Slam](https://redgifs.com/watch/leadingfrankatlanticsharpnosepuffer)
+- [Zombie Horse Bound](https://redgifs.com/watch/discreteidolizedbandicoot)
 
 # Stuff I didn't make
-- [Fursat Yiff Machine](https://gfycat.com/confusedonlyadamsstaghornedbeetle)
+- [Fursat Yiff Machine](https://redgifs.com/watch/confusedonlyadamsstaghornedbeetle)
 - Vaultman Wheatley's Revenge
-  - [Slow Rubbing](https://gfycat.com/concernedrareatlanticspadefish)
-  - [Fast Rubbing](https://gfycat.com/mediumfabulousibizanhound)
-  - [Slow Insertion](https://gfycat.com/adventurousparchedeidolonhelvum)
-  - [Fast Insertion](https://gfycat.com/gleefulserpentineblacknorwegianelkhound)
-  - [Repulsion](https://gfycat.com/smoothflawlesscurlew)
+  - [Slow Rubbing](https://redgifs.com/watch/concernedrareatlanticspadefish)
+  - [Fast Rubbing](https://redgifs.com/watch/mediumfabulousibizanhound)
+  - [Slow Insertion](https://redgifs.com/watch/adventurousparchedeidolonhelvum)
+  - [Fast Insertion](https://redgifs.com/watch/gleefulserpentineblacknorwegianelkhound)
+  - [Repulsion](https://redgifs.com/watch/smoothflawlesscurlew)
