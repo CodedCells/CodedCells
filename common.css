@@ -7,12 +7,14 @@ body {
 }
 
 #bannerbox {
+	display: flex;
 	max-height: 20em;
 	overflow: hidden;
+	justify-content: center; /* Horizontal centering (optional) */
+	align-items: center;     /* Vertical centering */
 }
 #bannerbox img {
 	width: 100%;
-	vertical-align: bottom;
 }
 
 .avatarzone {
