@@ -1,0 +1,55 @@
+body {
+	max-width: max(69em, 40vw);
+	margin: 0 auto;
+	padding: 0 1em;
+	background: lightgray;
+	font-family: Roboto, sans-serif;
+}
+
+#bannerbox {
+	max-height: 20em;
+	overflow: hidden;
+}
+#bannerbox img {
+	width: 100%;
+	vertical-align: bottom;
+}
+
+.avatarzone {
+	display: flex;
+	flex-flow: row wrap;
+	row-gap: 2em;
+	justify-content: space-evenly;
+}
+
+.avatar {
+	text-align: center;
+	font-size: 1.5em;
+	text-decoration: none;
+	font-color: initial;
+	font-weight: 420;
+}
+
+.avatar img {
+	display: block;
+	width: 150px;
+	height: 150px;
+}
+
+@media (prefers-color-scheme: dark) {
+body, * {
+	background-color: #000;
+	color: lightgray;
+	}
+}
+
+@media screen and (max-width: 800px) {
+	.avatar {
+		font-size: 1em;
+		font-weight: 420;
+	}
+	.avatar img {
+		width: 100px;
+		height: 100px;
+	}
+}
