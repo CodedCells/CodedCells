@@ -14,16 +14,6 @@
 		<meta name="theme-color" content="#EDD185">
 		<link rel="icon" type="image/x-icon" href="/cc3d/assets/favicon.ico">
 	</head>
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-    const highQualityImage = document.getElementById("bannerimage")
-    
-    highQualityImage.onload = () => {
-        highQualityImage.style.opacity = '1';
-        highQualityImage.parentElement.style.filter = 'blur(0)';
-    };
-});
-</script>
 	<body>
 
 <div id="bannerbox">
@@ -119,4 +109,18 @@ document.addEventListener("DOMContentLoaded", function() {
 <p>Any enquiries: <a href="mailto:codedcells@gmail.com">codedcells@gmail.com</a></p>
 </div>
 </body>
+<script>
+function showHighQuality(e) {
+	if (e.complete && e.naturalWidth !== 0) {
+		e.style.opacity = '1';
+		e.parentElement.style.filter = 'blur(0)';
+	}
+}
+
+const highQualityImage = document.getElementById("bannerimage")
+document.addEventListener("DOMContentLoaded", function() {
+    highQualityImage.onload = () => {showHighQuality(highQualityImage)}
+});
+const webFuckUp = setTimeout(function() {showHighQuality(highQualityImage)}, 5000)
+</script>
 </html>
