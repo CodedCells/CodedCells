@@ -14,11 +14,22 @@
 		<meta name="theme-color" content="#EDD185">
 		<link rel="icon" type="image/x-icon" href="/cc3d/assets/favicon.ico">
 	</head>
-
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    const highQualityImage = document.getElementById("bannerimage")
+    
+    highQualityImage.onload = () => {
+        highQualityImage.style.opacity = '1';
+        highQualityImage.parentElement.style.filter = 'blur(0)';
+    };
+});
+</script>
 	<body>
 
 <div id="bannerbox">
-<img src="/info/assets/banner.jpg" title="CodedCells" alt="CodedCells" >
+<div class="fuckcssblurring">
+<img id="bannerimage" width="1920" height="1080" src="/info/assets/banner.jpg" title="CodedCells" alt="CodedCells" >
+</div>
 </div>
 
 <div class="textzone">
